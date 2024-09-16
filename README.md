@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ghulam Fakhar ud din</h1>
-<h3 align="center">Focused, goal-driven and consistent developer</h3>
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 💬 Ask me about **Django, React.js, DRF, Javascript, Python, Problem Solving,**
+<h3 align="center">Experienced Backend Developer with TDD expertise</h3>
 
 - 📫 How to reach me **fakharudin99@gmail.com**
 

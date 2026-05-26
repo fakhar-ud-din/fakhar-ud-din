@@ -4,12 +4,11 @@
 
 **Django · Python · React · Angular · AWS · 5+ Years**
 
-📍 Lahore, Pakistan &nbsp;·&nbsp; Open to Remote / Relocation
+📍 Lahore, Pakistan &nbsp;
 
 [![Email](https://img.shields.io/badge/fakharudin99@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fakharudin99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin/in/fakhar--ud--din-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fakhar-ud-din)
-[![GitHub](https://img.shields.io/badge/github/fakhar--ud--din-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fakhar-ud-din)
-
+![](https://img.shields.io/badge/Open%20to%20Remote%20/%20Relocation-1f883d)
 </div>
 
 ---
